@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="2.5" group="system" method="upgrade">
+	<name>PLG_SYS_META4NET</name>
+	<author>Design4Net (Sergey Kupletsky)</author>
+	<creationDate>June 28, 2013</creationDate>
+	<copyright>Copyright by Design4Net (C) 2013. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<authorEmail>s_kupletsky@mail.ru</authorEmail>
+	<authorUrl>http://design4net.ru/</authorUrl>
+	<version>0.0.1</version>
+	<description>PLG_SYS_META4NET_XML_DESCRIPTION</description>
+
+    <files>
+        <filename plugin="meta4net">meta4net.php</filename>
+        <filename>index.html</filename>
+    </files>
+	
+	<languages>
+		<language tag="en-GB">language/en-GB/en-GB.plg_system_meta4net4net.ini</language>
+        <language tag="en-GB">language/en-GB/en-GB.plg_system_meta4net.sys.ini</language>
+        <language tag="ru-RU">language/ru-RU/ru-RU.plg_system_meta4net.ini</language>
+        <language tag="ru-RU">language/ru-RU/ru-RU.plg_system_meta4net.sys.ini</language>
+	</languages>
+	
+	<config>
+		<fields name="params">
+            <fieldset name="basic">
+                <field name="generator" type="text" default="" label="PLG_SYS_META4NET_GENERATOR_LABEL" description="PLG_SYS_META4NET_GENERATOR_DESCRIPTION" />
+                <field name="replaceGenerator" type="radio" class="btn-group" default="2" label="PLG_SYS_META4NET_GENERATOR_REPLACE_LABEL" description="PLG_SYS_META4NET_GENERATOR_REPLACE_DESCRIPTION">
+                    <option value="0">JNO</option>
+                    <option value="1">JYES</option>
+                    <option value="2">PLG_SYS_META4NET_GENERATOR_CLEAN</option>
+                </field>
+
+                <field name="spacer" type="spacer" hr="true"/>
+
+                <field name="copyright" type="text" default="" label="PLG_SYS_META4NET_COPYRIGHT_LABEL" description="PLG_SYS_META4NET_COPYRIGHT_DESCRIPTION" />
+                <field name="addCopyright" type="radio" class="btn-group" default="0" label="PLG_SYS_META4NET_COPYRIGHT_ADD_LABEL" description="PLG_SYS_META4NET_COPYRIGHT_ADD_DESCRIPTION">
+                    <option value="0">JNO</option>
+                    <option value="1">JYES</option>
+                </field>
+                <field name="contact" type="text" default="" label="PLG_SYS_META4NET_CONTACT_LABEL" description="PLG_SYS_META4NET_CONTACT_DESCRIPTION" />
+                <field name="addContact" type="radio" class="btn-group" default="0" label="PLG_SYS_META4NET_CONTACT_ADD_LABEL" description="PLG_SYS_TAGMETA_CONTACT_ADD_DESCRIPTION">
+                    <option value="0">JNO</option>
+                    <option value="1">JYES</option>
+                </field>
+            </fieldset>
+            <fieldset name="SYS_META4NET_MORE">
+                <field name="spacer2" type="spacer" hr="true"/>
+            </fieldset>
+        </fields>
+	</config>
+	
+</extension>
