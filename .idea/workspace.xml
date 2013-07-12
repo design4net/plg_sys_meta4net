@@ -4,11 +4,38 @@
     <list default="true" id="2aa551cd-f7a7-47ab-84d7-127f30657ac5" name="Default" comment="" />
     <ignored path="MetaTag.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1372426727988" ignored="false" />
+    <file path="/Dummy.txt" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373617183619" ignored="false" />
     <file path="/index.html" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1372426741977" ignored="false" />
     <file path="/plg_meta4net.xml" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1372426846282" ignored="false" />
-    <file path="/meta4net.php" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1372584628471" ignored="false" />
-    <file path="/meta4net.xml" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1372586099835" ignored="false" />
+    <file path="/meta4net.php" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373618677248" ignored="false" />
+    <file path="/meta4net.xml" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373526016696" ignored="false" />
+    <file path="$PROJECT_DIR$/../WebFont4Net/webfont4net/webfont4net.php" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373405355591" ignored="false" />
+    <file path="/webfont4net.php" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373383629623" ignored="false" />
+    <file path="/webfont4net.xml" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373520061374" ignored="false" />
+    <file path="$PROJECT_DIR$/../WebFont4Net/webfont4net/webfont4net.xml" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373521200727" ignored="false" />
+    <file path="$PROJECT_DIR$/../WebFont4Net/webfont4net/language/ru-RU/ru-RU.plg_system_webfont4net.ini" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373519948410" ignored="false" />
+    <file path="$PROJECT_DIR$/../WebFont4Net/webfont4net/language/ru-RU/ru-RU.plg_system_webfont4net.sys.ini" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373374165042" ignored="false" />
+    <file path="/ru-RU.plg_system_webfont4net.sys.ini" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373374162936" ignored="false" />
+    <file path="/ru-RU.plg_system_webfont4net.ini" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373395284790" ignored="false" />
+    <file path="$PROJECT_DIR$/../../18 - WikiLeads/00 - Рабочая копия 3.0/templates/gantry/index.php" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373392503369" ignored="false" />
+    <file path="/index.php" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373343795249" ignored="false" />
+    <file path="$PROJECT_DIR$/../../10 - Дизайн4нет/00 - a.Design4net/plugins/system/webfont4net/webfont4net.php" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373373846809" ignored="false" />
+    <file path="$PROJECT_DIR$/../../18 - WikiLeads/00 - Рабочая копия 3.0/media/design4net/fonts/fonts.css" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373405121634" ignored="false" />
+    <file path="/fonts.css" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373391322067" ignored="false" />
+    <file path="$PROJECT_DIR$/../WebFont4Net/webfont4net/fonts/example.css" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373521167546" ignored="false" />
+    <file path="/style.less" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373470516688" ignored="false" />
+    <file path="$PROJECT_DIR$/../../18 - WikiLeads/00 - Рабочая копия 3.0/templates/gantry/less/style.less" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373470898589" ignored="false" />
+    <file path="$PROJECT_DIR$/../../18 - WikiLeads/00 - Рабочая копия 3.0/templates/gantry/less/menu.less" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373468648944" ignored="false" />
+    <file path="/menu4net.less" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373470096342" ignored="false" />
+    <file path="$PROJECT_DIR$/../../18 - WikiLeads/00 - Рабочая копия 3.0/templates/gantry/less/menu4net.less" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373471113659" ignored="false" />
+    <file path="$PROJECT_DIR$/../WebFont4Net/webfont4net/language/en-GB/en-GB.plg_system_webfont4net.sys.ini" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373519985140" ignored="false" />
+    <file path="/en-GB.plg_system_webfont4net.sys.ini" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373519329731" ignored="false" />
+    <file path="$PROJECT_DIR$/../WebFont4Net/webfont4net/language/en-GB/en-GB.plg_system_webfont4net.ini" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373524189179" ignored="false" />
+    <file path="/en-GB.plg_system_webfont4net.ini" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373519601884" ignored="false" />
+    <file path="/example.css" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373520302643" ignored="false" />
+    <file path="/ru-RU.plg_system_meta4net.ini" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373617512641" ignored="false" />
+    <file path="/en-GB.plg_system_meta4net.sys.ini" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373526326014" ignored="false" />
+    <file path="/en-GB.plg_system_meta4net.ini" changelist="2aa551cd-f7a7-47ab-84d7-127f30657ac5" time="1373617481321" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +58,7 @@
       <file leaf-file-name="meta4net.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/meta4net/meta4net.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="28" selection-start="2765" selection-end="2765" vertical-scroll-proportion="0.7873051">
+            <state line="21" column="85" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.39932886">
               <folding />
             </state>
           </provider>
@@ -40,58 +67,27 @@
       <file leaf-file-name="meta4net.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meta4net/meta4net.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="29" selection-start="1186" selection-end="1186" vertical-scroll-proportion="-24.884615">
+            <state line="59" column="9" selection-start="1935" selection-end="1935" vertical-scroll-proportion="-25.384615">
               <folding>
-                <element signature="e#6#221#0" expanded="true" />
+                <element signature="e#6#226#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="meta4net.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../10 - Дизайн4нет/00 - a.Design4net/plugins/system/meta4net/meta4net.php">
+      <file leaf-file-name="ru-RU.plg_system_meta4net.ini" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meta4net/language/ru-RU/ru-RU.plg_system_meta4net.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="0" selection-end="1392" vertical-scroll-proportion="-6.5384617">
-              <folding>
-                <element signature="e#6#221#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tagmeta.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../14 - Спутник MCEM/00 - Рабочая копия 3.0/plugins/system/tagmeta/tagmeta.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="33" selection-start="1131" selection-end="1143" vertical-scroll-proportion="0.0">
+            <state line="46" column="49" selection-start="1438" selection-end="1438" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tagmeta.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../14 - Спутник MCEM/00 - Рабочая копия 3.0/plugins/system/tagmeta/tagmeta.php">
+      <file leaf-file-name="en-GB.plg_system_meta4net.ini" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meta4net/language/en-GB/en-GB.plg_system_meta4net.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="932" column="10" selection-start="42632" selection-end="42660" vertical-scroll-proportion="-6.27451">
-              <folding>
-                <element signature="e#6#235#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mymeta.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.660/mymeta.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="8" selection-start="576" selection-end="601" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mymeta.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.569/mymeta.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="32" selection-start="143" selection-end="162" vertical-scroll-proportion="-5.8846154">
+            <state line="35" column="39" selection-start="1032" selection-end="1032" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -117,6 +113,10 @@
       <list>
         <option value="$PROJECT_DIR$/plg_meta4net/index.html" />
         <option value="$PROJECT_DIR$/plg_meta4net/plg_meta4net.xml" />
+        <option value="$PROJECT_DIR$/meta4net/language/ru-RU/ru-RU.plg_system_meta4net.sys.ini" />
+        <option value="$PROJECT_DIR$/meta4net/language/en-GB/en-GB.plg_system_meta4net.sys.ini" />
+        <option value="$PROJECT_DIR$/meta4net/language/en-GB/en-GB.plg_system_meta4net.ini" />
+        <option value="$PROJECT_DIR$/meta4net/language/ru-RU/ru-RU.plg_system_meta4net.ini" />
         <option value="$PROJECT_DIR$/../../10 - Дизайн4нет/00 - a.Design4net/plugins/system/meta4net/meta4net.php" />
         <option value="$PROJECT_DIR$/meta4net/meta4net.php" />
         <option value="$PROJECT_DIR$/meta4net/meta4net.xml" />
@@ -126,8 +126,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="width" value="1932" />
+    <option name="height" value="1092" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -188,12 +188,75 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MetaTag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MetaTag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meta4net" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="language" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MetaTag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MetaTag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meta4net" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="language" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ru-RU" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MetaTag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MetaTag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meta4net" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="language" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="en-GB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Panorama" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
@@ -211,26 +274,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1932" height="1092" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21985058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22513369" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -294,10 +357,44 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.660/mymeta.xml">
+    <entry file="file://$PROJECT_DIR$/meta4net/meta4net.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="8" selection-start="576" selection-end="601" vertical-scroll-proportion="0.0">
+        <state line="5" column="65" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#6#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../14 - Спутник MCEM/00 - Рабочая копия 3.0/plugins/system/tagmeta/tagmeta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="932" column="10" selection-start="42632" selection-end="42660" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meta4net/meta4net.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="28" selection-start="2765" selection-end="2765" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meta4net/meta4net.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="29" selection-start="1186" selection-end="1186" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#6#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../10 - Дизайн4нет/00 - a.Design4net/plugins/system/meta4net/meta4net.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="0" selection-end="1392" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#6#226#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -308,43 +405,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.569/mymeta.php">
+    <entry file="file://$PROJECT_DIR$/../../14 - Спутник MCEM/00 - Рабочая копия 3.0/plugins/system/tagmeta/tagmeta.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="32" selection-start="143" selection-end="162" vertical-scroll-proportion="-5.8846154">
+        <state line="932" column="10" selection-start="42632" selection-end="42660" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meta4net/language/en-GB/en-GB.plg_system_meta4net.sys.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="148" selection-end="317" vertical-scroll-proportion="0.09371555" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meta4net/language/ru-RU/ru-RU.plg_system_meta4net.sys.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="319" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meta4net/language/ru-RU/ru-RU.plg_system_meta4net.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="49" selection-start="1438" selection-end="1438" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../14 - Спутник MCEM/00 - Рабочая копия 3.0/plugins/system/tagmeta/tagmeta.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="33" selection-start="1131" selection-end="1143" vertical-scroll-proportion="0.018743109">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../14 - Спутник MCEM/00 - Рабочая копия 3.0/plugins/system/tagmeta/tagmeta.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="932" column="10" selection-start="42632" selection-end="42660" vertical-scroll-proportion="-6.27451">
+        <state line="932" column="10" selection-start="42632" selection-end="42660" vertical-scroll-proportion="7.187788">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meta4net/meta4net.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="9" selection-start="1935" selection-end="1935" vertical-scroll-proportion="-25.384615">
           <folding>
-            <element signature="e#6#235#0" expanded="true" />
+            <element signature="e#6#226#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../10 - Дизайн4нет/00 - a.Design4net/plugins/system/meta4net/meta4net.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="0" selection-end="1392" vertical-scroll-proportion="-6.5384617">
+        <state line="43" column="0" selection-start="1303" selection-end="1935" vertical-scroll-proportion="0.42111236">
           <folding>
-            <element signature="e#6#221#0" expanded="true" />
+            <element signature="e#6#226#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meta4net/meta4net.php">
+    <entry file="file://$PROJECT_DIR$/meta4net/language/en-GB/en-GB.plg_system_meta4net.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="29" selection-start="1186" selection-end="1186" vertical-scroll-proportion="-24.884615">
-          <folding>
-            <element signature="e#6#221#0" expanded="true" />
-          </folding>
+        <state line="35" column="39" selection-start="1032" selection-end="1032" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/meta4net/meta4net.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="28" selection-start="2765" selection-end="2765" vertical-scroll-proportion="0.7873051">
+        <state line="21" column="85" selection-start="1003" selection-end="1003" vertical-scroll-proportion="0.39932886">
           <folding />
         </state>
       </provider>

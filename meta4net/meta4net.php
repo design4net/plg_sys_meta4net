@@ -3,7 +3,7 @@
  * @package    plg_sys_meta4net
  * @author     Design4Net (Sergey Kupletsky)
  * @copyright  Copyright by Design4Net (C) 2013. All rights reserved.
- * @license    GNU General Public License version 2 or later
+ * @license    GNU/GPLv2 http://www.gnu.org/licenses/gpl-2.0.html
  */
 
 // no direct access
@@ -41,10 +41,28 @@ class plgSystemMeta4Net extends JPlugin {
             $headData['metaTags']['standard']['generator'] = $generator;
         }
 
+        // custom tags
+        $custom_items = array();
+        $custom_name = array();
+        $custom_content = array();
+
+        for ($i = 1; $i <= 5; $i++) {
+            if ($this->params->get('addCustom' . $i)) {
+                $custom_items[] = $i;
+                $custom_name[] = $this->params->get('customName' . $i);
+                $custom_content[] = $this->params->get('customContent' . $i);
+            }
+        }
+        if ($custom_items) {
+            for ($i = 0; $i < count($custom_items); $i++){
+                $headData['metaTags']['standard'][$custom_name[$i]] = $custom_content[$i];
+            }
+        }
+
+        // enable tags
         if ($headData) {
             $document->setHeadData($headData);
         }
-
     }
 }
 ?>

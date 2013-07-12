@@ -4,19 +4,20 @@
 	<author>Design4Net (Sergey Kupletsky)</author>
 	<creationDate>June 28, 2013</creationDate>
 	<copyright>Copyright by Design4Net (C) 2013. All rights reserved.</copyright>
-	<license>GNU General Public License version 2 or later</license>
+	<license>GNU/GPLv2 http://www.gnu.org/licenses/gpl-2.0.html</license>
 	<authorEmail>s_kupletsky@mail.ru</authorEmail>
 	<authorUrl>http://design4net.ru/</authorUrl>
-	<version>0.0.1</version>
+	<version>1.0.0</version>
 	<description>PLG_SYS_META4NET_XML_DESCRIPTION</description>
 
     <files>
         <filename plugin="meta4net">meta4net.php</filename>
+        <filename>meta4net.xml</filename>
         <filename>index.html</filename>
     </files>
 	
 	<languages>
-		<language tag="en-GB">language/en-GB/en-GB.plg_system_meta4net4net.ini</language>
+		<language tag="en-GB">language/en-GB/en-GB.plg_system_meta4net.ini</language>
         <language tag="en-GB">language/en-GB/en-GB.plg_system_meta4net.sys.ini</language>
         <language tag="ru-RU">language/ru-RU/ru-RU.plg_system_meta4net.ini</language>
         <language tag="ru-RU">language/ru-RU/ru-RU.plg_system_meta4net.sys.ini</language>
@@ -45,8 +46,41 @@
                     <option value="1">JYES</option>
                 </field>
             </fieldset>
-            <fieldset name="SYS_META4NET_MORE">
+            <fieldset name="MORE_TAGS">
+                <field name="customName1" type="text" default="" label="PLG_SYS_META4NET_CUSTOM_NAME_LABEL" description="PLG_SYS_META4NET_CUSTOM_NAME_DESCRIPTION" />
+                <field name="customContent1" type="text" default="" label="PLG_SYS_META4NET_CUSTOM_CONTENT_LABEL" description="PLG_SYS_META4NET_CUSTOM_CONTENT_DESCRIPTION" />
+                <field name="addCustom1" type="radio" class="btn-group" default="0" label="PLG_SYS_META4NET_CUSTOM_ADD_LABEL" description="PLG_SYS_META4NET_CUSTOM_ADD_DESCRIPTION">
+                    <option value="0">JNO</option>
+                    <option value="1">JYES</option>
+                </field>
                 <field name="spacer2" type="spacer" hr="true"/>
+                <field name="customName2" type="text" default="" label="PLG_SYS_META4NET_CUSTOM_NAME_LABEL" description="PLG_SYS_META4NET_CUSTOM_NAME_DESCRIPTION" />
+                <field name="customContent2" type="text" default="" label="PLG_SYS_META4NET_CUSTOM_CONTENT_LABEL" description="PLG_SYS_META4NET_CUSTOM_CONTENT_DESCRIPTION" />
+                <field name="addCustom2" type="radio" class="btn-group" default="0" label="PLG_SYS_META4NET_CUSTOM_ADD_LABEL" description="PLG_SYS_META4NET_CUSTOM_ADD_DESCRIPTION">
+                    <option value="0">JNO</option>
+                    <option value="1">JYES</option>
+                </field>
+                <field name="spacer3" type="spacer" hr="true"/>
+                <field name="customName3" type="text" default="" label="PLG_SYS_META4NET_CUSTOM_NAME_LABEL" description="PLG_SYS_META4NET_CUSTOM_NAME_DESCRIPTION" />
+                <field name="customContent3" type="text" default="" label="PLG_SYS_META4NET_CUSTOM_CONTENT_LABEL" description="PLG_SYS_META4NET_CUSTOM_CONTENT_DESCRIPTION" />
+                <field name="addCustom3" type="radio" class="btn-group" default="0" label="PLG_SYS_META4NET_CUSTOM_ADD_LABEL" description="PLG_SYS_META4NET_CUSTOM_ADD_DESCRIPTION">
+                    <option value="0">JNO</option>
+                    <option value="1">JYES</option>
+                </field>
+                <field name="spacer4" type="spacer" hr="true"/>
+                <field name="customName4" type="text" default="" label="PLG_SYS_META4NET_CUSTOM_NAME_LABEL" description="PLG_SYS_META4NET_CUSTOM_NAME_DESCRIPTION" />
+                <field name="customContent4" type="text" default="" label="PLG_SYS_META4NET_CUSTOM_CONTENT_LABEL" description="PLG_SYS_META4NET_CUSTOM_CONTENT_DESCRIPTION" />
+                <field name="addCustom4" type="radio" class="btn-group" default="0" label="PLG_SYS_META4NET_CUSTOM_ADD_LABEL" description="PLG_SYS_META4NET_CUSTOM_ADD_DESCRIPTION">
+                    <option value="0">JNO</option>
+                    <option value="1">JYES</option>
+                </field>
+                <field name="spacer5" type="spacer" hr="true"/>
+                <field name="customName5" type="text" default="" label="PLG_SYS_META4NET_CUSTOM_NAME_LABEL" description="PLG_SYS_META4NET_CUSTOM_NAME_DESCRIPTION" />
+                <field name="customContent5" type="text" default="" label="PLG_SYS_META4NET_CUSTOM_CONTENT_LABEL" description="PLG_SYS_META4NET_CUSTOM_CONTENT_DESCRIPTION" />
+                <field name="addCustom5" type="radio" class="btn-group" default="0" label="PLG_SYS_META4NET_CUSTOM_ADD_LABEL" description="PLG_SYS_META4NET_CUSTOM_ADD_DESCRIPTION">
+                    <option value="0">JNO</option>
+                    <option value="1">JYES</option>
+                </field>
             </fieldset>
         </fields>
 	</config>
