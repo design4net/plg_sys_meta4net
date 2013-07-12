@@ -22,8 +22,8 @@
 **Meta-tag Contact**
  * Custom Meta-tag Contact Content
  
-**Custom meta-tags**
- * 5 custom meta-tags
+**Extra meta-tags**
+ * 5 extra meta-tags
  * Custom Meta-tags Name
  * Custom Meta-tags Content
 
