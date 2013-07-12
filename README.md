@@ -1,4 +1,38 @@
-MetaTag
-=======
+# MetaTag4Net
 
-Meta Tag Cleaning
+ * @package    plg_sys_meta4net
+ * @author     Design4Net (Sergey Kupletsky)
+ * @copyright  Copyright by Design4Net (C) 2013. All rights reserved.
+ * @license    GNU/GPLv2 http://www.gnu.org/licenses/gpl-2.0.html
+ * @version    1.0.0RC
+
+## WMetaTag4Net Plugin Description
+
+**Core**
+ * System plugin for Joomla 2.5/3.x
+ * Multilanguage (Russian, English)
+
+**Meta-tag Generator**
+ * Custom Meta-tag Generator Content
+ * Clean tag
+
+**Meta-tag Copyright**
+ * Custom Meta-tag Copyright Content
+ 
+**Meta-tag Contact**
+ * Custom Meta-tag Contact Content
+ 
+**Custom meta-tags**
+ * 5 custom meta-tags
+ * Custom Meta-tags Name
+ * Custom Meta-tags Content
+
+## Meta-tags Name values
+
+### HTML5
+
+ * [Standard metadata names](http://www.w3.org/TR/html5/document-metadata.html#standard-metadata-names) (defined in the HTML5 spec)
+ * [MetaExtensions](http://wiki.whatwg.org/wiki/MetaExtensions) (registered in the WHATWG wiki according to the HTML5 spec)
+
+### HTML4.01
+ * In HTML 4.01 there is no registry defined, so you can use whatever values you like.
