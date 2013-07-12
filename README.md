@@ -6,7 +6,7 @@
  * @license    GNU/GPLv2 http://www.gnu.org/licenses/gpl-2.0.html
  * @version    1.0.0RC
 
-## WMetaTag4Net Plugin Description
+## MetaTag4Net Plugin Description
 
 **Core**
  * System plugin for Joomla 2.5/3.x
