@@ -11,6 +11,7 @@
 **Core**
  * System plugin for Joomla 2.5/3.x
  * Multilanguage (Russian, English)
+ * W3C valid code
 
 **Meta-tag Generator**
  * Custom Meta-tag Generator Content
