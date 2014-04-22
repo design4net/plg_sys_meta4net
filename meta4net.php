@@ -20,10 +20,10 @@ class plgSystemMeta4Net extends JPlugin {
         $replace_generator = $this->params->get('replaceGenerator');
 
         $rights = $this->params->get('rights');
-        $add_copyright = $this->params->get('addCopyright');
+        $add_rights = $this->params->get('addRights');
 
         $creator = $this->params->get('creator');
-        $add_contact = $this->params->get('addContact');
+        $add_creator = $this->params->get('addCreator');
 
         if (($rights) && ($add_rights)) {
             $headData['metaTags']['standard']['dcterms.rights'] = $rights;
