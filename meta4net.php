@@ -4,6 +4,7 @@
  * @author     Design4Net (Sergey Kupletsky)
  * @copyright  Copyright by Design4Net (C) 2013. All rights reserved.
  * @license    GNU/GPLv2 http://www.gnu.org/licenses/gpl-2.0.html
+ * @version	   1.0.1
  */
 
 // no direct access
@@ -12,25 +13,24 @@ defined('_JEXEC') or die('Restricted access');
 class plgSystemMeta4Net extends JPlugin {
     function onBeforeCompileHead()
     {
-
         $document = JFactory::getDocument();
         $headData = $document->getHeadData();
 
         $generator = $this->params->get('generator');
         $replace_generator = $this->params->get('replaceGenerator');
 
-        $copyright = $this->params->get('copyright');
+        $rights = $this->params->get('rights');
         $add_copyright = $this->params->get('addCopyright');
 
-        $contact = $this->params->get('contact');
+        $creator = $this->params->get('creator');
         $add_contact = $this->params->get('addContact');
 
-        if (($copyright) && ($add_copyright)) {
-            $headData['metaTags']['standard']['copyright'] = $copyright;
+        if (($rights) && ($add_rights)) {
+            $headData['metaTags']['standard']['dcterms.rights'] = $rights;
         }
 
-        if (($contact) && ($add_contact)) {
-            $headData['metaTags']['standard']['contact'] = $contact;
+        if (($creator) && ($add_creator)) {
+            $headData['metaTags']['standard']['dcterms.creator'] = $creator;
         }
 
         if ($replace_generator) {

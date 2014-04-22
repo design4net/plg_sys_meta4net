@@ -3,11 +3,11 @@
 	<name>PLG_SYS_META4NET</name>
 	<author>Design4Net (Sergey Kupletsky)</author>
 	<creationDate>June 28, 2013</creationDate>
-	<copyright>Copyright by Design4Net (C) 2013. All rights reserved.</copyright>
+	<copyright>Copyright by Design4Net (C) 2013-2014. All rights reserved.</copyright>
 	<license>GNU/GPLv2 http://www.gnu.org/licenses/gpl-2.0.html</license>
 	<authorEmail>s_kupletsky@mail.ru</authorEmail>
 	<authorUrl>http://design4net.ru/</authorUrl>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<description>PLG_SYS_META4NET_XML_DESCRIPTION</description>
 
     <files>
@@ -35,13 +35,13 @@
 
                 <field name="spacer" type="spacer" hr="true"/>
 
-                <field name="copyright" type="text" default="" label="PLG_SYS_META4NET_COPYRIGHT_LABEL" description="PLG_SYS_META4NET_COPYRIGHT_DESCRIPTION" />
-                <field name="addCopyright" type="radio" class="btn-group" default="0" label="PLG_SYS_META4NET_COPYRIGHT_ADD_LABEL" description="PLG_SYS_META4NET_COPYRIGHT_ADD_DESCRIPTION">
+                <field name="rights" type="text" default="" label="PLG_SYS_META4NET_RIGHTS_LABEL" description="PLG_SYS_META4NET_RIGHTS_DESCRIPTION" />
+                <field name="addRights" type="radio" class="btn-group" default="0" label="PLG_SYS_META4NET_RIGHTS_ADD_LABEL" description="PLG_SYS_META4NET_RIGHTS_ADD_DESCRIPTION">
                     <option value="0">JNO</option>
                     <option value="1">JYES</option>
                 </field>
-                <field name="contact" type="text" default="" label="PLG_SYS_META4NET_CONTACT_LABEL" description="PLG_SYS_META4NET_CONTACT_DESCRIPTION" />
-                <field name="addContact" type="radio" class="btn-group" default="0" label="PLG_SYS_META4NET_CONTACT_ADD_LABEL" description="PLG_SYS_TAGMETA_CONTACT_ADD_DESCRIPTION">
+                <field name="creator" type="text" default="" label="PLG_SYS_META4NET_CREATOR_LABEL" description="PLG_SYS_META4NET_CREATOR_DESCRIPTION" />
+                <field name="addCreator" type="radio" class="btn-group" default="0" label="PLG_SYS_META4NET_CREATOR_ADD_LABEL" description="PLG_SYS_TAGMETA_CREATOR_ADD_DESCRIPTION">
                     <option value="0">JNO</option>
                     <option value="1">JYES</option>
                 </field>
