@@ -2,7 +2,7 @@
 /**
  * @package    plg_sys_meta4net
  * @author     Design4Net (Sergey Kupletsky)
- * @copyright  Copyright by Design4Net (C) 2013. All rights reserved.
+ * @copyright  Copyright by Design4Net (C) 2013-2014. All rights reserved.
  * @license    GNU/GPLv2 http://www.gnu.org/licenses/gpl-2.0.html
  * @version	   1.0.1
  */
@@ -16,12 +16,15 @@ class plgSystemMeta4Net extends JPlugin {
         $document = JFactory::getDocument();
         $headData = $document->getHeadData();
 
+		// get plugin options for meta-tag 'generator'
         $generator = $this->params->get('generator');
         $replace_generator = $this->params->get('replaceGenerator');
 
+		// get plugin options for meta-tag 'rights'
         $rights = $this->params->get('rights');
         $add_rights = $this->params->get('addRights');
 
+		// get plugin options for meta-tag 'creator'
         $creator = $this->params->get('creator');
         $add_creator = $this->params->get('addCreator');
 
